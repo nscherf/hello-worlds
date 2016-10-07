@@ -2,5 +2,5 @@
   (lambda ()
     (begin
       (write 'Hello-World)
-      (newline)
-      (hello-world))))
+      (newline))))
+(hello-world)
